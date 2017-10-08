@@ -1,0 +1,35 @@
+body {
+    font-family: avenir;
+    line-height: 25px;
+    background-color: #DAA520;
+}
+h1{
+    font-size: 50px;
+    color:#FBF6E8;
+}
+b {
+    font-size: 16px;
+    color:#E8C979;
+}
+
+p.assignments {
+    font-size: 20px;
+    font-weight: bold;
+    color:dimgrey;
+    background-color: #ECD28F;
+    
+}
+
+a:link {
+    font-size: 
+    color:blanchedalmond;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+ a:visited {
+    color:lightblue;
+}
