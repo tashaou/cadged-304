@@ -1,28 +1,32 @@
 body {
-    font-family: avenir;
-    line-height: 25px;
-    background-color: #DAA520;
+    font-family: GT Sectra;
+    line-height: 40px;
+    background-color: black;
 }
 h1{
-    font-size: 50px;
-    color:#FBF6E8;
+    font-size: 40px;
+    color:whitesmoke;
+    line-height: 80px;
+    background-color: dimgrey;
+    
 }
 b {
     font-size: 16px;
-    color:#E8C979;
+    color:whitesmoke;
+    background-color: dimgrey;
 }
 
 p.assignments {
     font-size: 20px;
     font-weight: bold;
-    color:dimgrey;
-    background-color: #ECD28F;
+    color:whitesmoke;
+    background-color: dimgrey;
     
 }
 
 a:link {
     font-size: 
-    color:blanchedalmond;
+    color:whitesmoke;
     text-decoration: none;
 }
 
@@ -31,5 +35,5 @@ a:hover {
 }
 
  a:visited {
-    color:lightblue;
+    color:darkgrey;
 }
