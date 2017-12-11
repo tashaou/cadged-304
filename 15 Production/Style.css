@@ -114,7 +114,11 @@ h1 {
     color: white;
     font-size: 20px;
     border: 2px solid white;
-    padding: 10px 30px;
+    padding: 10px 10px;
+    width: 150;
+    text-align: center ;
+    margin: 0 3em ;
+    display: inline-block;
 }
 /* c1 ends */
 /* c2 starts */
@@ -153,7 +157,11 @@ h1 {
     color: white;
     font-size: 20px;
     border: 2px solid white;
-    padding: 10px 30px;
+    padding: 10px 10px;
+    width: 150;
+    text-align: center ;
+    margin: 0 3em ;
+    display: inline-block;
 }
 /* c2 ends */
 /* c3 starts */
@@ -192,7 +200,11 @@ h1 {
     color: white;
     font-size: 20px;
     border: 2px solid white;
-    padding: 10px 30px;
+    padding: 10px 10px;
+    width: 150;
+    text-align: center ;
+    margin: 0 3em ;
+    display: inline-block;
 }
 /* c3 ends */
 /* c4 starts */
@@ -231,7 +243,11 @@ h1 {
     color: white;
     font-size: 20px;
     border: 2px solid white;
-    padding: 10px 20px;
+    padding: 10px 5px;
+    width: 150;
+    text-align: center ;
+    margin: 0 3em ;
+    display: inline-block;
 }
 /* c4 ends */
 /* c5 starts */
@@ -270,7 +286,11 @@ h1 {
     color: white;
     font-size: 20px;
     border: 2px solid white;
-    padding: 10px 15px;
+    padding: 10px 5px;
+    width: 150;
+    text-align: center ;
+    margin: 0 3em ;
+    display: inline-block;
 }
 /* c5 ends */
 /* c6 starts */
@@ -309,7 +329,11 @@ h1 {
     color: white;
     font-size: 20px;
     border: 2px solid white;
-    padding: 10px 25px;
+    padding: 10px 20px;
+    width: 150;
+    text-align: center ;
+    margin: 0 3em ;
+    display: inline-block;
 }
 /* c5 ends */
 

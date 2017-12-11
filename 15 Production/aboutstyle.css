@@ -19,7 +19,7 @@ h1 {
     margin-top: 60px;
     margin-bottom: 60px;
     padding-left: 300px;
-    background-image: url(IMG/txtbg.png);
+    background-image: url(IMG/abmebg.png);
     background-repeat: no-repeat;
     background-position: 290px 21px;
 }
@@ -36,6 +36,7 @@ p{
     color: #919191;
 }
 footer{
+    padding-top: 0px;
     padding-left: 1348;
     margin-bottom: 44px;
 }
@@ -72,7 +73,7 @@ footer{
     grid-row-start: 2;
     grid-row-end: 3;
     padding-left: 130px;
-    padding-top: 110;
+    padding-top: 0;
 }
 
 .buttons{
@@ -94,32 +95,53 @@ footer{
     padding-left: 250;
 }
 
+.right{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin-right: 270px;
+}
+
 .abmetxt{
-    margin-right: 300px;
+    line-height: 25px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding-left: 10px;
 }
 
 #exp{
-    grid-column-start: 2;
-    grid-column-end: 3;
-    grid-row-start: 2;
-    grid-row-end: 3;
+    color: #636363;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    background-image: url(IMG/expbg.png);
+    background-repeat: no-repeat;
+    background-position: 0px 14px;
 }
 
 #explist{
-    grid-column-start: 2;
-    grid-column-end: 3;
-    grid-row-start: 3;
-    grid-row-end: 4;
+    margin-bottom: 100px;
+    line-height: 32px;
+    padding-left: 10px;
+    margin-top: 10px;
+    
 }
 
 #exhib{
-    grid-column-start: 2;
-    grid-column-end: 3;
-    grid-row-start: 4;
-    grid-row-end: 5;
+    color: #636363;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    background-image: url(IMG/expbg.png);
+    background-repeat: no-repeat;
+    background-position: 0px 14px;
 }
 
-
+#exhiblist{
+    margin-bottom: 100px;
+    line-height: 32px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
 
 
 
@@ -127,5 +149,5 @@ footer{
 
 
 header, ul, li, p, div, blockquote, footer, section {
-    border: 3px solid red ;
+/*    border: 3px solid red ;*/
 }
